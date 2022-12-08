@@ -2,9 +2,9 @@
 
 https://cyberllence.com/2022/10/automatizarea-proceselor-sap/
 
-*MODULE STUDIATE ȘI CALENDAR* <br />
+*MODULELE STUDIATE ȘI CALENDARUL:* <br />
 31 Octombrie – 04 Noiembrie 2022: Introducere în **Sistemul ERP SAP®** <br />
-07 – 11 Noiembrie 2022: Introducere în **RPA (Robotic Process Automation** <br />
+07 – 11 Noiembrie 2022: Introducere în **RPA (Robotic Process Automation)** <br />
 14 – 18 Noiembrie 2022: Introducere în **automatizarea proceselor SAP®** <br />
 21 – 25 Noiembrie 2022: Realizare **challenge** <br />
 
